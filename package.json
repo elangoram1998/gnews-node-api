@@ -1,10 +1,10 @@
 {
   "name": "gnews-node-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node module for Gnews Api from gnews.io",
   "main": "index.js",
   "scripts": {
-    "deploy":"npm publish"
+    "deploy": "npm publish"
   },
   "repository": {
     "type": "git",
