@@ -11,6 +11,11 @@ is totally valid. There are some usage examples below to see how these querystri
 
 If you use this in a project, add a 'powered by' attribution link back to gnews.io
 
+## Add to your project
+```shell
+$ npm i gnews-node-api
+```
+
 ## Example usage
 
 ```js
