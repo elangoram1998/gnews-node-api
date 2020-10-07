@@ -4,7 +4,7 @@
   "description": "Node module for Gnews Api from gnews.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"npm publish"
   },
   "repository": {
     "type": "git",
