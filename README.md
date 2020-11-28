@@ -39,7 +39,11 @@ newsApi.getTopHeadLines({
         }
         */
     }
-)
+).catch(
+    error=>{
+        //Error message
+    }
+);
 
 // to search for a news
 //atleast one q is required, optional's (lang,country,from,to,sortby,nullable)
@@ -61,6 +65,10 @@ newsApi.searchNews({
         }
         */
     }
-)
+).catch(
+    error=>{
+        //Error message
+    }
+);
 ```
  

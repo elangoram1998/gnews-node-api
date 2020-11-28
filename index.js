@@ -33,6 +33,8 @@ const getNewsData = (url) => {
         }).then(
             data => {
                 return data;
+            }).catch(error=>{
+                return error;
             })
 }
 

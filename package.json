@@ -1,6 +1,6 @@
 {
   "name": "gnews-node-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node module for Gnews Api from gnews.io",
   "main": "index.js",
   "scripts": {
